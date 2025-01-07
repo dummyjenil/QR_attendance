@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QR attendance</string>
+    <string name="SECRET_KEY">SwaminarayanSabha</string>
+</resources>
